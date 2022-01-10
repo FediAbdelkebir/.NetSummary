@@ -1,0 +1,8 @@
+﻿
+@model IEnumerable<PS.Domain.Product>
+@foreach (var item in Model)
+{
+    <hr />
+    <partial name="_Details2" model="item" />
+    <hr />
+}

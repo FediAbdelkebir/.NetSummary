@@ -1,0 +1,10 @@
+﻿@model IEnumerable<PS.Domain.Product>
+@{
+    ViewBag.Title = "Index2";
+}
+
+<h2>Index2</h2>
+@foreach (var item in Model)
+{@Html.Partial("_Details", item);
+
+}

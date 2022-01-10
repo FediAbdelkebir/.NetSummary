@@ -1,0 +1,42 @@
+C:\Users\Asus\source\repos\Examen\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Examen\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Examen\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Examen\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Examen\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.deps.json
+C:\Users\Asus\source\repos\Examen\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.dll
+C:\Users\Asus\source\repos\Examen\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+C:\Users\Asus\source\repos\Examen\ServicePattern\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Asus\source\repos\Examen\ServicePattern\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Asus\source\repos\Examen\ServicePattern\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Asus\source\repos\Examen\ServicePattern\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Asus\source\repos\Examen\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CopyComplete
+C:\Users\Asus\source\repos\Examen\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.dll
+C:\Users\Asus\source\repos\Examen\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.pdb
+C:\Users\Asus\Desktop\Revision\Revision BI\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.deps.json
+C:\Users\Asus\Desktop\Revision\Revision BI\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.dll
+C:\Users\Asus\Desktop\Revision\Revision BI\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+C:\Users\Asus\Desktop\Revision\Revision BI\ServicePattern\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Asus\Desktop\Revision\Revision BI\ServicePattern\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Asus\Desktop\Revision\Revision BI\ServicePattern\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Asus\Desktop\Revision\Revision BI\ServicePattern\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Asus\Desktop\Revision\Revision BI\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Revision\Revision BI\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Revision\Revision BI\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Revision\Revision BI\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Revision\Revision BI\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CopyComplete
+C:\Users\Asus\Desktop\Revision\Revision BI\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.dll
+C:\Users\Asus\Desktop\Revision\Revision BI\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.pdb
+C:\Users\Asus\Desktop\Revision\Revision Equipe\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.deps.json
+C:\Users\Asus\Desktop\Revision\Revision Equipe\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.dll
+C:\Users\Asus\Desktop\Revision\Revision Equipe\ServicePattern\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+C:\Users\Asus\Desktop\Revision\Revision Equipe\ServicePattern\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Asus\Desktop\Revision\Revision Equipe\ServicePattern\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Asus\Desktop\Revision\Revision Equipe\ServicePattern\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Asus\Desktop\Revision\Revision Equipe\ServicePattern\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Asus\Desktop\Revision\Revision Equipe\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Revision\Revision Equipe\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Revision\Revision Equipe\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Revision\Revision Equipe\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Revision\Revision Equipe\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.csproj.CopyComplete
+C:\Users\Asus\Desktop\Revision\Revision Equipe\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.dll
+C:\Users\Asus\Desktop\Revision\Revision Equipe\ServicePattern\obj\Debug\netcoreapp3.1\ServicePattern.pdb

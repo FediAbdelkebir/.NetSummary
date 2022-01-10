@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\ProductStore\PS.ServicePattern\bin\Debug\netcoreapp3.1\PS.ServicePattern.deps.json
+C:\Users\Asus\source\repos\ProductStore\PS.ServicePattern\bin\Debug\netcoreapp3.1\PS.ServicePattern.dll
+C:\Users\Asus\source\repos\ProductStore\PS.ServicePattern\bin\Debug\netcoreapp3.1\PS.ServicePattern.pdb
+C:\Users\Asus\source\repos\ProductStore\PS.ServicePattern\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\Asus\source\repos\ProductStore\PS.ServicePattern\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Asus\source\repos\ProductStore\PS.ServicePattern\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\Asus\source\repos\ProductStore\PS.ServicePattern\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Asus\source\repos\ProductStore\PS.ServicePattern\obj\Debug\netcoreapp3.1\PS.ServicePattern.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ProductStore\PS.ServicePattern\obj\Debug\netcoreapp3.1\PS.ServicePattern.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ProductStore\PS.ServicePattern\obj\Debug\netcoreapp3.1\PS.ServicePattern.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ProductStore\PS.ServicePattern\obj\Debug\netcoreapp3.1\PS.ServicePattern.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ProductStore\PS.ServicePattern\obj\Debug\netcoreapp3.1\PS.ServicePattern.csproj.CopyComplete
+C:\Users\Asus\source\repos\ProductStore\PS.ServicePattern\obj\Debug\netcoreapp3.1\PS.ServicePattern.dll
+C:\Users\Asus\source\repos\ProductStore\PS.ServicePattern\obj\Debug\netcoreapp3.1\PS.ServicePattern.pdb

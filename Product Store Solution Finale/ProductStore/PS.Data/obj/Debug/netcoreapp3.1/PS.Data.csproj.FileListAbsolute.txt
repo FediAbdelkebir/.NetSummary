@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.deps.json
+C:\Users\Asus\source\repos\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.runtimeconfig.json
+C:\Users\Asus\source\repos\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\Asus\source\repos\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\Asus\source\repos\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Asus\source\repos\ProductStore\PS.Data\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Asus\source\repos\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.csproj.CopyComplete
+C:\Users\Asus\source\repos\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.dll
+C:\Users\Asus\source\repos\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.pdb
+C:\Users\Asus\source\repos\ProductStore\PS.Data\obj\Debug\netcoreapp3.1\PS.Data.genruntimeconfig.cache
